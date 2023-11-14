@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Drawing App </title>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Drawing App</h1>
+        <div class="canvas-container">
+            <canvas id="drawingCanvas" width="800" height="600"></canvas>
+            <div id="guideContainer">
+                <h3>Instructions</h3>
+                <p>To Erase lines : Use the Toggle Eraser below.</p>
+                <p> To Erase the canvas : Command/Control + z or refresh.</p>
+                <p>Click and Move the mouse or Touch the canvas to start drawing!</p>
+                <p>Find the Guide Toggle button below to close the instructions.</p>
+            </div>
+        </div>
+        <button id="toggleButton">Toggle Eraser</button>
+        <button id="guideToggle">Guide Toggle</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
