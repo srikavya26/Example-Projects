@@ -1,0 +1,50 @@
+body {
+    font-family: 'Dancing Script', cursive;
+    background-color: #f4f4f4;
+    font-size: larger;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+}
+
+.container h1 {
+    color: rgba(203, 146, 146, 0.491);
+}
+
+.gradient-text {
+    background: -webkit-linear-gradient(45deg, #b4b4b4, #000, #a171ef);
+    background: -o-linear-gradient(45deg, #b4b4b4, #000, #a171ef);
+    background: linear-gradient(45deg, #b4b4b4, #000, #a171ef);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-size: 3em;
+}
+
+button {
+    padding: 30px;
+    background-color: #8a725c;
+    color: white;
+    font-size: medium;
+    border: none;
+    cursor: pointer;
+    border-radius: 60%;
+    box-sizing: border-box;
+}
+
+button:hover {
+    background-color: #919d88;
+    color: black;
+    font-size: medium;
+}
+
+p {
+    font-family: 'Prompt', sans-serif;
+    color: rgb(80, 36, 36);
+}
