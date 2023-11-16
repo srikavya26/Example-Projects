@@ -12,4 +12,3 @@ JavaScript: JavaScript adds interactivity to your website, allowing for dynamic 
 
 Netlify: Website is deployed on Netlify, a popular hosting and continuous integration platform. It ensures that your website is accessible on the internet.
 
-![image](https://github.com/srikavya26/Example-Projects/assets/95865936/4b698162-b515-479b-b09e-15bc37421533)
