@@ -7,6 +7,8 @@ Welcome to the "JavaScript Projects" repository!
 - Drawing App
 - Random Quote Generator
 - Gsap Animation Page
+- Expense Tracker
+  
 ### Live Links:
 Experience the projects Live on https://codepen.io/collection/ZMmNxe. Also from the links given below:
 
