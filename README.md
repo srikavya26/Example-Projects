@@ -22,13 +22,20 @@ https://dynamic-empanada-73c70c.netlify.app<br>
 API : Quotable REST API - https://docs.quotable.io/docs/api/b3b9b39f25dd9-get-random-quote
 
 ### Technologies Used: 
-HTML: The structure and content of a website are built using HTML to create a well-organized web page.
+- HTML: The structure and content of a website are built using HTML to create a well-organized web page.
+- CSS: Cascading Style Sheets (CSS) are used to apply custom styling, making your website visually appealing.
+- JavaScript: JavaScript adds interactivity to your website, allowing for dynamic features and smooth user interactions.
+- Netlify: Website is deployed on Netlify, a popular hosting and continuous integration platform. It ensures that your website is accessible on the internet.
+## GSAP (GreenSock Animation Platform)
+ - GSAP: [GSAP](https://greensock.com/gsap/) for smooth and efficient animations. GSAP is a robust JavaScript animation library that simplifies the process of creating engaging and high-performance animations for the web. With GSAP, you can easily enhance the user experience by adding fluid and visually appealing animations to your projects.
 
-CSS: Cascading Style Sheets (CSS) are used to apply custom styling, making your website visually appealing.
+### Why GSAP?
+- **Ease of Use**: GSAP provides a simple and intuitive API, making it accessible for both beginners and experienced developers.
+- **Performance**: It is optimized for performance, ensuring smooth animations even on complex web pages.
+- **Versatility**: GSAP supports a wide range of animation types, from simple transitions to complex timeline-based sequences.
 
-JavaScript: JavaScript adds interactivity to your website, allowing for dynamic features and smooth user interactions.
+To learn more about GSAP and explore its features, visit the [GSAP official documentation](https://greensock.com/docs/).
 
-Netlify: Website is deployed on Netlify, a popular hosting and continuous integration platform. It ensures that your website is accessible on the internet.
 ## Getting Started
 
 ### Prerequisites
