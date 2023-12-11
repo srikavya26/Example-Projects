@@ -1,6 +1,7 @@
 # JavaScript Projects
 Welcome to the "JavaScript Projects" repository! 
 
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
 ## Projects
 - To-Do List
 - Tic-Tac-Toe Game
