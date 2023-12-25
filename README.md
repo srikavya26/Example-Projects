@@ -44,7 +44,7 @@ Make sure you have a modern web browser installed, such as Google Chrome or Mozi
 ### Installation
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/srikavya26/Example-Projects.git
+   git clone https://github.com/srikavya26/Javascript-Projects.git
 
 ### Project Structure
 The repository is organized as follows:
