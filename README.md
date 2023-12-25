@@ -10,7 +10,7 @@ Welcome to the "JavaScript Projects" repository!
 - Expense Tracker
   
 ### Live Links:
-Experience the projects Live on https://codepen.io/collection/ZMmNxe. Also from the links given below:
+Experience the projects Live on https://codepen.io/Vasala-Srikavya. Also from the links given below:
 
 - Expense Tracker - https://reliable-sunflower-380461.netlify.app/<br>
 - Random Quote Generator - https://storied-hamster-55cf56.netlify.app/<br>
