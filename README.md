@@ -1,8 +1,12 @@
-# JavaScript Projects
-Welcome to the "JavaScript Projects" repository! 
+## JavaScript :
+#### JavaScript is a versatile and widely-used programming language renowned for its ability to create dynamic and interactive web content. Originally developed for adding interactivity to web pages, JavaScript has evolved into a powerful tool for both front-end and back-end web development.
+##### Few Key features of JavaScript include:
+###### 1.Client-Side Scripting
+###### 2.Cross-Platform Compatibility
+###### 3.Functional Programming Support
+###### 4.Extensive Ecosystem.
 
-## Projects
-- To-Do List
+## Projects :
 - Tic-Tac-Toe Game
 - Drawing App
 - Random Quote Generator
